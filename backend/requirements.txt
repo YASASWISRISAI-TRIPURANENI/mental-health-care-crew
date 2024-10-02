@@ -1,0 +1,9 @@
+Flask
+flask-cors
+requests
+nltk
+keras
+tensorflow
+spacy
+spacy-langdetect
+transformers
